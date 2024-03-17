@@ -1,0 +1,34 @@
+{
+  "name": "projectfinancialasst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahskaS08/PersonalizedFinancialAssistant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahskaS08/PersonalizedFinancialAssistant/issues"
+  },
+  "homepage": "https://github.com/mahskaS08/PersonalizedFinancialAssistant#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.2.0",
+    "react-router-dom": "^6.22.3",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
